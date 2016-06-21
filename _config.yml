@@ -1,4 +1,3 @@
-layout_spectrum: 0.8172697748523206
 typography_spectrum: 0.24051680020056665
 color:
   brandStrength: 0.6027102402877063
@@ -11,4 +10,10 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-name: Storage Depot
+layout_spectrum: 0.8172697748523206
+author:
+  name: Benton W. Williams
+  email: bentonw@gmail.com
+  url: www.storagedepot.com
+name: The Storage Depot
+title: Industrial Storage Made Easy
